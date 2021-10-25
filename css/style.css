@@ -98,6 +98,40 @@ header ul li a:hover {
 }
 .text-wrap p{
     max-width: 600px;
-    padding: 10px 0 10px 0;
-    
+    padding: 10px 0 10px 0; 
+}
+.apartments{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.picture-wrap{
+    max-width: 800px;
+    width: 100%;
+}
+.apartments h3{
+    text-align: center;
+    padding: 10px 0 10px;
+    font-size: 30px;
+}
+.normal-apartment, 
+.medium-apartment,
+.lux-apartment{
+    padding: 20px 0 20px;
+}
+.apartments h4{
+    font-size: 45px;
+}
+.apartments p{
+    padding: 15px 0 15px;
+}
+.service-wrap{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: blue;
+}
+i{
+    width: 200px;
 }
