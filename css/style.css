@@ -43,16 +43,61 @@ header ul li a:hover {
 
 .background-img{
     width: 100%;
-    position: absolute;
+    /* position: absolute; */
     align-items: center;
     text-align: center;
     display: flex;
     justify-content: center;
     height: 750px;
-    background-image: url(../img/ciudad-maderas-MXbM1NrRqtI-unsplash.jpg
+    background-image: url(../img/alexander-kaunas-xEaAoizNFV8.jpg
     );
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-
+}
+.text h3{
+   color: #FFDF00 ; 
+   /* color: white; */
+   font-size: 50px;
+   padding: 20px;
+}
+.text h4{
+    color: #FFDF00;
+    font-size: 45px;
+    padding: 20px;
+}
+.text p{
+    color: #00f9f1;
+    padding: 40px;
+    font-size: 30px;
+}
+.text a{
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1x solid #FFDF00;
+    outline: 3px solid #ffdf00;
+    background: #3AB;
+    padding: 11px 30px 12px;
+    color: #FFDF00;
+    letter-spacing: .1px;
+}
+/* about us styles */
+.about-us{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0 100px;
+    align-items: center;
+}
+.about-us h3{
+    font-size: 30px;
+}
+.text-wrap{
+    padding: 50px 0 20px 0;
+}
+.text-wrap p{
+    max-width: 600px;
+    padding: 10px 0 10px 0;
+    
 }
