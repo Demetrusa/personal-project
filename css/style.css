@@ -130,8 +130,66 @@ header ul li a:hover {
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
-    background-color: blue;
+    background-color: rgb(11, 11, 49);
+    align-items: center;
+    width: 100%;
 }
-i{
-    width: 200px;
+.service-wrap h2{
+    font-size: 40px;
+    color: #FFDF00;
+    padding: 20px 0 50px;
+    text-align: center;
+}
+.service-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 100px;
+}
+.first-box-img{
+    max-height: 150px;
+}
+/* contact styles */
+
+.contact{
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.contact-title{
+    color: #FFDF00;
+    font-size: 35px;
+}
+.contact_content {
+    max-width: 950px;
+    margin: 0 auto;
+    min-width: 150px; 
+    min-height: 68px; 
+}
+.content-headers{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.header{
+    width: 315px;
+    text-align: center;
+}
+.header-mail{
+    width: 315px;
+    text-align: center;
+}
+.header-img{
+    margin-left: 5px;
+}
+.header-mail img{
+    margin-bottom: 15px;
+}
+.header-p{
+    margin-top: 20px;
+}
+.contact-title{
+    align-items: center;
+    text-align: center;
+    padding-bottom: 130px;
 }
