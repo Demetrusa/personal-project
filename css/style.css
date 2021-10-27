@@ -256,12 +256,13 @@ header ul li a:hover {
 .aprtment-style{
     width: 950px;
 }
-.select-from{
-    width: 865px;
+/* .select-from{
+    width: 400px;
     height: 45px;
-    margin: 10px 30px 30px 30px;
+    margin: 10px 30px 30px 27%;
     font-size: 14px;
-}
+    
+} */
 .last-form{
     width: 100%;
     min-height: 65px;

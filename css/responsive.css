@@ -1,0 +1,116 @@
+@media (max-width:900px){
+    .name-form{
+        height: auto;
+        max-width: 200px;
+        max-height: 30px;
+        font-size: 10px;
+        margin: 0 auto;
+    }
+    .text-area{
+        width: 600px;
+        height: 140px;
+    }
+    .contact-form{
+            align-items: center;
+            text-align: center;
+    }
+}
+@media(max-width:925px){
+ 
+    .text-area{
+        width: 750px;
+    }
+}
+@media (max-width: 830px){
+    .nav-li{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+    .apartments p{
+        text-align: center;
+    }
+    .apartments h4{
+        font-size: 30px;
+    }
+}
+@media(max-width:809px){
+    .text-area{
+        width: 400px;
+    }
+    .text h3{
+        font-size: 30px;
+    }
+    .text h4{
+        font-size: 25px;
+    }
+    .text p{
+        font-size:20px;
+    }
+
+}
+@media (max-width:660px ){
+    .name-form{
+        width: 150px;
+    }
+    .text-area{
+        width: 400px;
+        height: 100px;
+    }
+    .full-name{
+        width: 150px;
+        display: flex;
+    }
+    .first-form{
+        align-items: center;
+        text-align: center;
+    }
+}
+@media(max-width:642px){
+    .full-name{
+        height: 35px;
+        display: flex;
+        justify-items: center;
+    }
+    .header-p{
+        font-size: 15px;
+    }
+ 
+}
+
+@media(max-width:470px){
+    .text h3{
+        font-size: 25px;
+    }
+    .text h4{
+        font-size: 22px;
+    }
+    .text p{
+        font-size:18px;
+    }
+    .name-form{
+        width: 100px;
+    }
+    .text-area{
+        width: 250px;
+        height: 80px;
+    }
+}
+@media(max-width:311px){
+    .text-area{
+        width: 150px;
+    }
+    .text-form{
+        width: 180px;
+        height: 60px;
+    }
+    .footer-logo{
+        width: 45px;
+    }
+    .service_flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
