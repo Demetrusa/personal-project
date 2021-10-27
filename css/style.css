@@ -37,6 +37,7 @@ header li a{
     padding: 10px;
     font-size: 20px;
     font-family: 'Inter';
+    color:#FFDF00;
 }
 header ul li a:hover {
     color: #33d1cc;
