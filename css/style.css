@@ -1,6 +1,8 @@
 /* header styles  */
 header{
     background-color: black;
+    position: fixed;
+    width: 100%;
 }
 body{
     background-color: #c1c1c1e0;
