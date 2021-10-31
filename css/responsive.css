@@ -113,4 +113,21 @@
         flex-direction: column;
         justify-content: center;
     }
+    .text-area{
+        display: none;
+    }
+    .text-from{
+        display: none;
+    }
+    .full-name{
+         margin: 0 auto;
+         margin-bottom: 5px;
+         margin-top: 5px:
+    }
+    .last-form{
+        display: none;
+    }
+    .input-message{
+        margin: 5px 0 15px 0;
+    }
 }
